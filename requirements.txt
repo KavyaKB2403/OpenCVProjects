@@ -1,0 +1,6 @@
+# Computer Vision / OpenCV learning roadmap dependencies
+opencv-python
+numpy
+matplotlib
+pillow 
+pillow-avif-plugin
